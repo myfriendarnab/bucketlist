@@ -1,0 +1,11 @@
+C:\data\workbench\az\bucketlist\bucketlistweb\bin\Debug\netcoreapp2.0\bucketlistweb.deps.json
+C:\data\workbench\az\bucketlist\bucketlistweb\bin\Debug\netcoreapp2.0\bucketlistweb.runtimeconfig.json
+C:\data\workbench\az\bucketlist\bucketlistweb\bin\Debug\netcoreapp2.0\bucketlistweb.runtimeconfig.dev.json
+C:\data\workbench\az\bucketlist\bucketlistweb\bin\Debug\netcoreapp2.0\bucketlistweb.dll
+C:\data\workbench\az\bucketlist\bucketlistweb\bin\Debug\netcoreapp2.0\bucketlistweb.pdb
+C:\data\workbench\az\bucketlist\bucketlistweb\obj\Debug\netcoreapp2.0\bucketlistweb.csprojResolveAssemblyReference.cache
+C:\data\workbench\az\bucketlist\bucketlistweb\obj\Debug\netcoreapp2.0\bucketlistweb.csproj.CoreCompileInputs.cache
+C:\data\workbench\az\bucketlist\bucketlistweb\obj\Debug\netcoreapp2.0\bucketlistweb.AssemblyInfoInputs.cache
+C:\data\workbench\az\bucketlist\bucketlistweb\obj\Debug\netcoreapp2.0\bucketlistweb.AssemblyInfo.cs
+C:\data\workbench\az\bucketlist\bucketlistweb\obj\Debug\netcoreapp2.0\bucketlistweb.dll
+C:\data\workbench\az\bucketlist\bucketlistweb\obj\Debug\netcoreapp2.0\bucketlistweb.pdb
